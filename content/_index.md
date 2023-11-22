@@ -1,7 +1,7 @@
 +++
 +++
 
-## Hello
+# Hello
 
 My name is Pil. Im an embedded developer with a great love for Rust and low level stuff.
 
